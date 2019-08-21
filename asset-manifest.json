@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-guess-the-number-game/static/js/main.8ce4f300.chunk.js",
-    "main.js.map": "/react-guess-the-number-game/static/js/main.8ce4f300.chunk.js.map",
+    "main.js": "/react-guess-the-number-game/static/js/main.c3249ff6.chunk.js",
+    "main.js.map": "/react-guess-the-number-game/static/js/main.c3249ff6.chunk.js.map",
     "runtime~main.js": "/react-guess-the-number-game/static/js/runtime~main.adb40ef7.js",
     "runtime~main.js.map": "/react-guess-the-number-game/static/js/runtime~main.adb40ef7.js.map",
-    "static/js/2.486ecd0f.chunk.js": "/react-guess-the-number-game/static/js/2.486ecd0f.chunk.js",
-    "static/js/2.486ecd0f.chunk.js.map": "/react-guess-the-number-game/static/js/2.486ecd0f.chunk.js.map",
+    "static/js/2.081b5bdc.chunk.js": "/react-guess-the-number-game/static/js/2.081b5bdc.chunk.js",
+    "static/js/2.081b5bdc.chunk.js.map": "/react-guess-the-number-game/static/js/2.081b5bdc.chunk.js.map",
     "index.html": "/react-guess-the-number-game/index.html",
-    "precache-manifest.b7cba75721f3695888230173ba46e91d.js": "/react-guess-the-number-game/precache-manifest.b7cba75721f3695888230173ba46e91d.js",
+    "precache-manifest.119d169490d9fcf2c02fca79c2a00598.js": "/react-guess-the-number-game/precache-manifest.119d169490d9fcf2c02fca79c2a00598.js",
     "service-worker.js": "/react-guess-the-number-game/service-worker.js"
   }
 }

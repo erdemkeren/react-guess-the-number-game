@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-guess-the-number-game/static/js/main.33b4acbf.chunk.js",
+    "main.js.map": "/react-guess-the-number-game/static/js/main.33b4acbf.chunk.js.map",
+    "runtime~main.js": "/react-guess-the-number-game/static/js/runtime~main.adb40ef7.js",
+    "runtime~main.js.map": "/react-guess-the-number-game/static/js/runtime~main.adb40ef7.js.map",
+    "static/js/2.486ecd0f.chunk.js": "/react-guess-the-number-game/static/js/2.486ecd0f.chunk.js",
+    "static/js/2.486ecd0f.chunk.js.map": "/react-guess-the-number-game/static/js/2.486ecd0f.chunk.js.map",
+    "index.html": "/react-guess-the-number-game/index.html",
+    "precache-manifest.dee8fac9be73d0a56c634bcd02aaf2b0.js": "/react-guess-the-number-game/precache-manifest.dee8fac9be73d0a56c634bcd02aaf2b0.js",
+    "service-worker.js": "/react-guess-the-number-game/service-worker.js"
+  }
+}

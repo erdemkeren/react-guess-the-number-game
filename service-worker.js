@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-guess-the-number-game/precache-manifest.119d169490d9fcf2c02fca79c2a00598.js"
+  "/react-guess-the-number-game/precache-manifest.d0398f41fde0b1ac4202bc59b03557bb.js"
 );
 
 self.addEventListener('message', (event) => {

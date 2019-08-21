@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe5043d708611fc965a4d38b0cc82d1f",
+    "revision": "638c793b5fed3a5b5e1cec49b11b8ce2",
     "url": "/react-guess-the-number-game/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-guess-the-number-game/static/js/2.486ecd0f.chunk.js"
   },
   {
-    "revision": "6754249c8478f6842f8a",
-    "url": "/react-guess-the-number-game/static/js/main.33b4acbf.chunk.js"
+    "revision": "7b3198abf9187329bb98",
+    "url": "/react-guess-the-number-game/static/js/main.8ce4f300.chunk.js"
   },
   {
     "revision": "b76a3539365ce8518fb9",

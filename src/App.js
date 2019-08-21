@@ -8,6 +8,7 @@ const Number = ({ n, isEliminated, isAGuess, isFoundAnswer, ...rest }) =>
       height: 40,
       color: isFoundAnswer ? 'green' : isAGuess ? 'red' : isEliminated ? 'lightgray' : 'black',
       fontSize: 12,
+      cursor: 'pointer',
     }} {...rest}>{n}</span>
 
 const range = _.range(1, 301)
@@ -45,9 +46,9 @@ function App() {
     <>
       <div style={{maxWidth: 1000, margin: '0 auto 30px auto' }}>
         <h1>Guess The Number</h1>
-        <p>This game was created for educational purposes.</p>
-        <p>You can try any algorithm you want to apply to find the hidden number. Following the number list, you can find my suggestion!</p>
-        <p>If you don't have a better idea, I give you my word. We will find the number on {Math.ceil(Math.log2(range.length))} <code>round(log2(300))</code> tries at most.</p>
+        <p>This game was created for educational purposes. I think for a number and expect you to find it. So make a guess and click on it.</p>
+        <p>If you don't have a better idea, I give you my word. If you listen to me, we will find the number on {Math.ceil(Math.log2(range.length))} <code>round(log2(300))</code> tries at most.</p>
+        <p>Or, maybe you should try sequential search...</p>
       </div>
       <div style={{display: 'flex', flexWrap: 'wrap', maxWidth: 1000, margin: '0 auto' }}>
         { numbers.map(num => <Number key={num.n} onClick={() => {! num.isEliminated && guess(num.n)}} {...num} isFoundAnswer={needle === num.n && num.isAGuess} />)}
